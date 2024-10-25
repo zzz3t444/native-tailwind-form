@@ -5,9 +5,9 @@ export default function UrlImage() {
   return (
     <View>
       <Image
-        style={[{ width: 200, height: 200 }]}
+        style={[{ width: 250, height: 450 }]}
         source={{
-          uri: "https://cdn3d.iconscout.com/3d/premium/thumb/thinking-3d-icon-download-in-png-blend-fbx-gltf-file-formats--setting-management-innovation-design-pack-development-icons-6041579.png?f=webp",
+          uri: "https://cdn3d.iconscout.com/3d/premium/thumb/male-character-thinking-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--man-boy-creative-brainstorming-pack-people-illustrations-5120082.png",
         }}
       />
     </View>
